@@ -101,7 +101,7 @@ Will deploy app to heroku
 
 For additional help or questions about collaboration, contact me at: metayerkinson@gmail.com
 
-- GitHub - [MetayerKinson](https://github.com/metayerkinson/)
+- GitHub - [MetayerKinson](https://github.com/metayerkinson/mern-book-search-engine)
 - Project Repository Link: https://github.com/metayerkinson/book-search-engine
 
 - heroku -
