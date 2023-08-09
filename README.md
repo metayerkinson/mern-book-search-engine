@@ -57,14 +57,14 @@ GIVEN a book search engine
 
 ## How to Download
 
-- Simply copy the **SSH** to the terminal or Download the **ZIP File**:
+- Simply copy the **SSH** to the terminal to clone it or Download the **ZIP File**:
 
 ## Installation
 
 - Use the follow command at your terminal, **git clone** (Create a working copy at your local repository):
 
   ```
-  git clone git@github.com:metayerkinson/book-search-engine.git
+  git clone git@github.com:metayerkinson/mern-book-search-engine.git
   ```
 
 - After cloned the repository, create your own repository, copy the files to your repository and type in your terminal the follow commands.
@@ -104,6 +104,6 @@ For additional help or questions about collaboration, contact me at: metayerkins
 - GitHub - [MetayerKinson](https://github.com/metayerkinson/mern-book-search-engine)
 - Project Repository Link: https://github.com/metayerkinson/book-search-engine
 
-- heroku Link -
+
 
 ---
