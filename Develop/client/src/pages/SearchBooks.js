@@ -12,7 +12,7 @@ import {
 import Auth from "../utils/auth";
 import { saveBookIds, getSavedBookIds } from "../utils/localStorage";
 import { useMutation } from "@apollo/react-hooks";
-import { SAVE_BOOK } from "../utils/mutations";
+import { SaveBook } from "../utils/mutations";
 import { searchGoogleBooks } from "../utils/API";
 
 const SearchBooks = () => {
